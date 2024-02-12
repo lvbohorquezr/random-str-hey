@@ -1,0 +1,27 @@
+{
+  "name": "random-str-hey",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvbohorquezr/random-str-hey.git"
+  },
+  "author": "Laura Bohorquez <lvbohorquezr@unal.edu.co",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lvbohorquezr/random-str-hey/issues"
+  },
+  "homepage": "https://github.com/lvbohorquezr/random-str-hey#readme",
+  "keywords": [],
+  "bin": {
+    "random-str-hey": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
